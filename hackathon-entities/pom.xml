@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+	<artifactId>hackathon-entities</artifactId>
+	<groupId>com.hackathon</groupId>
+	<version>1</version>
+	<modelVersion>4.0.0</modelVersion>
+	<packaging>pom</packaging>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<modules>
+		<module>./hackathon-base-entities-pom.xml/</module>
+		<module>./hackathon-all-entities-pom.xml/</module>
+		<module>./hackathon-phone-entities-pom.xml</module>
+		<module>./hackathon-address-entities-pom.xml</module>
+		<module>./hackathon-user-entities-pom.xml</module>
+	</modules>
+
+</project>
