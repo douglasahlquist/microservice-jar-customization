@@ -76,8 +76,8 @@
     <module>hackathon-entities</module>
     <module>hackathon-address-microservice</module>
     <module>hackathon-phone-microservice</module>
-   <module>hackathon-user-microservice</module>
- <!--   <module>hackathon-user-frontend</module> -->
+    <module>hackathon-user-microservice</module>
+    <module>hackathon-user-frontend</module>
 
   </modules>
   

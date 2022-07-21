@@ -16,6 +16,14 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 		<java.version>1.8</java.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
+	
+	<dependencies>
+		<dependency>
+			<artifactId>hackathon-phone-entities</artifactId>
+			<groupId>com.hackathon</groupId>
+			<version>1</version>
+		</dependency>
+	</dependencies>
 
 
 	<build>

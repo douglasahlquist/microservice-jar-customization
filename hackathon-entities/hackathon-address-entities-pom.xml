@@ -29,7 +29,9 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 				<version>3.2.2</version>
 				<configuration>
 					<includes>
-						<include>**/**/*Addres*</include>
+						<include>com/hackathon/entities/*Addres*</include>
+						<include>com/hackathon/repositories/*Addres*</include>
+						<include>com/hackathon/services/*Addres*</include>
 					</includes>
 				</configuration>
 			</plugin>
